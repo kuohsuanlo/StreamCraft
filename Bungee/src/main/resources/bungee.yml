@@ -1,0 +1,5 @@
+name: ${name}
+version: ${version}
+main: cf.catworlds.streamcraft.bungee.MainClass
+author: WhiteCat
+description: ${description}

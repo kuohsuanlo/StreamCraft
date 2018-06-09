@@ -1,0 +1,11 @@
+name: ${name}
+version: ${version}
+description: ${description}
+author: WhiteCat
+main: cf.catworlds.streamcraft.spigot.MainClass
+website: ${url}
+commands:
+  test:
+    description: main
+    aliases: test2
+    usage: /test something
